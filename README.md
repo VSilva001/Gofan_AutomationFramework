@@ -25,7 +25,7 @@ Installation:
 9. Click on "edit configurations" in you toolbar.
 10.Click on the "+" plus sign.
 11.Select "Node.js"
-12.Add a Name: Nodejs
+12.Add a Name: Nodejss
 13.In your "edit configurations" add field for  (this will get you IDE setup to run your test cases.)
     * JavaScript:              /Users/victorsilva/WebstormProjects/Eliot_2_0/node_modules/protractor/lib/cli.js
     * Application parameter:   /Users/victorsilva/WebstormProjects/Eliot_2_0/conf.js
