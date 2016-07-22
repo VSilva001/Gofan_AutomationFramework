@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a317361f-1392-43e9-8efa-2c922c21c3ca" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a317361f-1392-43e9-8efa-2c922c21c3ca" name="Default" comment="" />
     <ignored path="st-protractor-cucumber_New.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +37,8 @@
           </provider>
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="405">
-                <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+              <first_editor relative-caret-position="135">
+                <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -454,7 +452,7 @@
       <workItem from="1469014581782" duration="343000" />
       <workItem from="1469198220803" duration="35000" />
       <workItem from="1469200614930" duration="1884000" />
-      <workItem from="1469211710305" duration="169000" />
+      <workItem from="1469211710305" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="Testing Gofan with Webstom">
       <created>1469211756350</created>
@@ -474,7 +472,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="300549000" />
+    <option name="totallyTimeSpent" value="300695000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-110" width="1881" height="1057" extended-state="6" />
@@ -921,8 +919,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
             <folding />
           </first_editor>
           <second_editor />
